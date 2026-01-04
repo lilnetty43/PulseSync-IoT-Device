@@ -5,6 +5,13 @@
   • SoftwareSerial on D10/D11 for ESP-01
   • Poll D6 for beats, flash D13 at each beat
   • Publish instantaneous BPM immediately (and keep polling during send)
+
+
+ NOTE:
+ The ESP-01S in this project uses a custom command interface / firmware
+ wrapper (e.g., wifi_ssid=, setup_io, send_data) rather than stock ESP AT
+ commands. These commands are specific to the ESP-01S setup used in this
+ project and are not part of the default Espressif AT firmware.
 ***************************************************************************/
 #include <Arduino.h>
 #include <SoftwareSerial.h>  // Allows us to use two GPIO pins for a second UART
