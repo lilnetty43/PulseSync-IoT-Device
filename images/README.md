@@ -1,6 +1,6 @@
 
 ---
-## PCB Layout and Component Placement
+## PCB Layout and Component Placement Files
 
 ### Top Layer – Component Placement
 ![Top Layer Placement]()
