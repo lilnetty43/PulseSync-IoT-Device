@@ -16,6 +16,10 @@ This directory contains the complete hardware design for the PulseSync IoT heart
 - **kicad/**  
   Contains KiCad project files, including schematics and PCB layout files, along with custom symbols, footprints, and 3D models used in the design.
 
+     ### Project Archival Note
+      The original KiCad project source files (.kicad_sch and .kicad_pcb) were not preserved during early fabrication submissions. The available Gerber and drill files represent the finalized manufacturing-ready design and are provided for reference and verification.
+
+
 - **fabrication/**  
   Manufacturing outputs generated from KiCad, including Gerber files and drill files required for PCB fabrication.
 
