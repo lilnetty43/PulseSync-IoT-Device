@@ -15,7 +15,7 @@ This directory contains the complete hardware design artifacts for the PulseSync
 ---
 ## Schematic Overview
 
-![PulseSync IoT Schematic](../images/schematic/PulseSync_IoT_Schematic.png)
+![PulseSync IoT Schematic](hardware/outputs/schematic/PulseSync_IoT_Schematic.png)
 
 *Exported schematic view showing sensor interface, ESP-01S integration, power regulation, and I/O mapping.*
 
