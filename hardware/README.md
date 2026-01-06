@@ -1,6 +1,6 @@
 # PulseSync IoT – Hardware Design
 
-This directory contains the complete hardware design artifacts for the PulseSync IoT heart-rate monitoring system, developed using KiCad. The hardware consists of a custom Arduino Uno–compatible shield integrating heart-rate sensing, wireless communication, and visual feedback.
+This directory contains the complete hardware design artifacts for the PulseSync IoT heart-rate monitoring system, developed using KiCad.
 
 ---
 
