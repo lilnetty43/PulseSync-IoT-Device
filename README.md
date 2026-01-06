@@ -5,6 +5,7 @@ PulseSync IoT is a real-time heart-rate monitoring system that integrates embedd
 ![PulseSync IoT PCB – 3D Render](images/renders/PulseSync_IoT.png)
 
 *KiCad-generated 3D render of the finalized PCB layout for visual reference and board geometry.*
+
 ---
 
 ## Project Overview
@@ -15,9 +16,10 @@ PulseSync IoT is a real-time heart-rate monitoring system that integrates embedd
 - **Visual feedback:** Onboard LED synchronized to detected heartbeats
 - **PCB design:** Custom Arduino Uno–compatible shield designed in KiCad
 
-This project was developed as part of **CPEG/ELEG298** and demonstrates foundational skills in embedded systems, PCB design, sensor interfacing, and IoT-based data transmission.
+This project was developed as part of **CPEG/ELEG298** and demonstrates my foundational skills in embedded systems, PCB design, sensor interfacing, and IoT-based data transmission.
 
 ---
+
 ## Repository Structure
 
 ```text
@@ -33,13 +35,16 @@ PulseSync-IoT-Device/
 │   │   ├── gerbers/       # Gerber layer files
 │   │   └── drill/         # Excellon drill files and drill maps
 │   └── outputs/           # BOM, schematic PDFs, rendered PCB views
-├── images/                # PCB renders and placement visuals
+├── images/                # PCB visuals and inspection images
 │   ├── README.md
 │   ├── renders/           # KiCad 3D board renders
+│   │   ├── PulseSync_IoT_3D_Top.png
+│   │   └── PulseSync_IoT_3D_Bottom.png
+│   ├── routing/           # PCB routing views
+│   │   └── PulseSync_IoT_Routed_Top.png
 │   ├── TOP_placement_BOM_overlay.png
 │   └── BOTTOM_placement_BOM_overlay.png
 └── docs/                  # Final report and presentation slides
     ├── README.md
     ├── report/
     └── slides/
-
