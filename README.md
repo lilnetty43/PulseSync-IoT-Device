@@ -2,7 +2,8 @@
 
 PulseSync IoT is a real-time heart-rate monitoring system that integrates embedded firmware, custom PCB hardware, and IoT connectivity. The system detects heartbeats using a Grove ear-clip sensor (PPG-based), synchronizes an onboard LED with each detected beat, and transmits heart-rate data wirelessly using an ESP8266 Wi-Fi module.
 
-![PulseSync IoT PCB]()
+![PulseSync IoT PCB – 3D Render](images/renders/PulseSync_IoT.png)
+
 
 ---
 
