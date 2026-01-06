@@ -13,6 +13,12 @@ This directory contains the complete hardware design artifacts for the PulseSync
 - A routed PCB layout view is provided in the `images/` directory for reference
 
 ---
+## Schematic Overview
+
+![PulseSync IoT Schematic](../images/schematic/PulseSync_IoT_Schematic.png)
+
+*Exported schematic view showing sensor interface, ESP-01S integration, power regulation, and I/O mapping.*
+
 
 ## Design Tools
 
@@ -30,6 +36,8 @@ Intended to contain editable KiCad project source files, including schematics, P
 The original KiCad project source files (`.kicad_sch` and `.kicad_pcb`) were not preserved during early fabrication submissions. As a result, the editable schematic and PCB source files are no longer available.
 
 The finalized design is instead represented through the manufacturing-ready outputs (Gerber and drill files) and human-readable documentation provided elsewhere in this directory.
+Exported schematic PDFs are included in the `outputs/` directory to preserve circuit-level design intent.
+
 
 ---
 
