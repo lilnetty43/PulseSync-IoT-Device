@@ -11,7 +11,7 @@
 
 ## PCB Routing View
 
-![Top Layer Routing](routing/PulseSync_IoT_PCB_Top.png)
+![Top Layer Routing](routing/PulseSync_IoT_PCB.png)
 
 This view highlights top-layer copper routing, signal paths, and component connectivity for the PulseSync IoT PCB.
 
