@@ -4,7 +4,7 @@ PulseSync IoT is a real-time heart-rate monitoring system that integrates embedd
 
 ![PulseSync IoT PCB – 3D Render](images/renders/PulseSync_IoT.png)
 
-
+*KiCad-generated 3D render of the finalized PCB layout for visual reference and board geometry.*
 ---
 
 ## Project Overview
