@@ -7,7 +7,6 @@ This directory contains the complete hardware design for the PulseSync IoT heart
 - Interfaces a Grove ear-clip heart-rate sensor with an Arduino Uno
 - Integrates an ESP-01S Wi-Fi module for wireless data transmission
 - Includes onboard LED indication synchronized to detected heartbeats
-- Designed with a focus on reliable sensor interfacing and power integrity
 
 ## Design Tools
 - **EDA Tool:** KiCad
@@ -15,7 +14,7 @@ This directory contains the complete hardware design for the PulseSync IoT heart
 
 ## Directory Structure
 - **kicad/**  
-  Contains native KiCad project files, including schematics and PCB layout files, along with any custom symbols, footprints, and 3D models used in the design.
+  Contains KiCad project files, including schematics and PCB layout files, along with custom symbols, footprints, and 3D models used in the design.
 
 - **fabrication/**  
   Manufacturing outputs generated from KiCad, including Gerber files and drill files required for PCB fabrication.
