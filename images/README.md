@@ -8,6 +8,14 @@
 ![Bottom Placement + BOM](../images/BOTTOM_placement_BOM_overlay.png)
 
 
+
+## PCB Routing View
+
+![Top Layer Routing](routing/PulseSync_IoT_PCB_Top.png)
+
+This view highlights top-layer copper routing, signal paths, and component connectivity for the PulseSync IoT PCB.
+
+
 ## KiCad 3D Renders
 
 ### Top View
